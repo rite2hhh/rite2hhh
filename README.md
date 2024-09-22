@@ -1,10 +1,11 @@
 ## Hi there 👋
 
-<!-- ### 🔭 I'm currently working on ... --> 
-
 I'm a software engineer with six years of professional experience working on
 backend systems primarily built in Python. I'm interested to work on video
 streaming projects in C/C++.
+
+### Overview
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=rite2hhh&show_icons=true&theme=github_dark&hide_border=true&hide_title=true)
 
 
 ### 🌱 I'm currently learning ...
